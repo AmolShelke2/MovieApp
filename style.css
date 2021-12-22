@@ -51,7 +51,7 @@ main {
 }
 
 .movie {
-  width: 400px;
+  width: 300px;
   margin: 1.8rem;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
   position: relative;
